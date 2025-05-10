@@ -65,6 +65,19 @@ nav{
     #img1{
         width: 40%;
     }
+    #VIDLINK{
+        text-decoration: none;
+        font-size: 23px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        width: auto;
+        background-color: #d0dc1c;
+        padding: 5px;
+        line-height: 60px;
+        border-radius: 5px;
+        color: #f2f2f2;
+        box-shadow: 3px 3px 3px 3px #1d1d1d;
+        
+    }
 }
 @media (min-width:1409px) {
     #img1{
