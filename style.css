@@ -220,6 +220,9 @@ nav{
     margin: 2%;
     border-radius: 5px;
 }
-@media (max-width:412px) {
+@media (max-width:512px) {
     #logoimg{width: 25%;}
+}
+@media (min-width:1009px) {
+    #logoimg{width: 15%;}
 }
