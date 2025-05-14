@@ -9,6 +9,7 @@ hr{
     border-color: #313131;
     margin-left: 10%;
     margin-right: 10%;
+    margin-top: 5%;
 }
 h1{
     text-align: center;
@@ -212,4 +213,13 @@ nav{
 97%{background: linear-gradient(157deg, #e0ec2c 50%,#313131 50%);}
 98%{background: linear-gradient(158deg, #e0ec2c 50%,#313131 50%);}
 99%{background: linear-gradient(159deg, #e0ec2c 50%,#313131 50%);}
+}
+#logoimg{
+    float: left;
+    width: 20%;
+    margin: 2%;
+    border-radius: 5px;
+}
+@media (max-width:412px) {
+    #logoimg{width: 25%;}
 }
